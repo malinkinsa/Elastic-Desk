@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-labelledby="title">
+  <title id="title">Elastic Desk</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#173f51"/>
+      <stop offset="1" stop-color="#102c3c"/>
+    </linearGradient>
+    <linearGradient id="elastic" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00bfb3"/>
+      <stop offset="1" stop-color="#46a7f5"/>
+    </linearGradient>
+    <linearGradient id="desk" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7b500"/>
+      <stop offset="1" stop-color="#f04e98"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="46" height="46" rx="14" fill="url(#bg)"/>
+  <path d="M8.5 14h13v4h-8.5v2.9h7.7v3.8h-7.7v3.3h8.8v4H8.5z" fill="url(#elastic)"/>
+  <path d="M24 14h6.2c5.7 0 9.3 3.4 9.3 9s-3.6 9-9.3 9H24zm4.6 4v10h1.7c2.8 0 4.4-1.7 4.4-5s-1.6-5-4.4-5z" fill="url(#desk)"/>
+</svg>
